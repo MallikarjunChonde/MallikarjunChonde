@@ -8,13 +8,13 @@
 &nbsp;Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp; | &nbsp;JWT&nbsp; 
 
 ⛺️ **Frontend:** 
-&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; 
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; | &nbsp;Angular&nbsp;
 
 📁 **Database:**
 &nbsp;MySQL&nbsp; | &nbsp;MongoDB&nbsp; | 
 
 🧰 **Tools:**
-&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
+&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp; 
 
 ---
 <a href="https://github.com/MallikarjunChonde"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunChonde&theme=tokyonight&hide_border=true"></a>
