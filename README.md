@@ -14,7 +14,7 @@
 &nbsp;MySQL&nbsp; | &nbsp;MongoDB&nbsp; | 
 
 🧰 **Tools:**
-&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp; 
+&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp; | &nbsp;Azure&nbsp;
 
 ---
 <a href="https://github.com/MallikarjunChonde"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunChonde&theme=tokyonight&hide_border=true"></a>
